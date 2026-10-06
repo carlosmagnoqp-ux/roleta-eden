@@ -1,0 +1,48 @@
+{
+  "title": "Roleta de Brindes",
+  "subtitle": "Gire a roleta, descubra seu brinde e tire um print da tela.",
+  "spinButtonText": "Girar roleta",
+  "pointerColor": "#f4f1de",
+  "centerColor": "#ffffff",
+  "backgroundStart": "#17324d",
+  "backgroundEnd": "#0a1724",
+  "wheelBorderColor": "#ffffff",
+  "textColor": "#ffffff",
+  "shadowColor": "rgba(0, 0, 0, 0.25)",
+  "wheelSize": 420,
+  "fontFamily": "'Trebuchet MS', sans-serif",
+  "whatsappNumber": "5555229961191",
+  "whatsappMessage": "Oi! Acabei de girar a Roleta Eden e esse foi o meu resultado:",
+  "items": [
+    {
+      "label": "1 +100 ML",
+      "color": "#7b2d8e",
+      "weight": 25
+    },
+    {
+      "label": "1 Adicional de Gotas de Chocolate",
+      "color": "#5a189a",
+      "weight": 20
+    },
+    {
+      "label": "1 Adicional de Nutella",
+      "color": "#9d4edd",
+      "weight": 2
+    },
+    {
+      "label": "1 Copo Crocante",
+      "color": "#c77dff",
+      "weight": 18
+    },
+    {
+      "label": "1 Adicional Creme de Ninho",
+      "color": "#6a4c93",
+      "weight": 15
+    },
+    {
+      "label": "1 Adicional Surpresa",
+      "color": "#b07d32",
+      "weight": 20
+    }
+  ]
+}
